@@ -12,6 +12,11 @@ The mock data is JSON format and the backend is node.js.
 
 The custom Material Design svelte components are prototypes for a more standard and robust stack we will be working on called svelterial.
 
+Previews:
+![Templates](https://github.com/pjpardun/svelte-material-dashboard/blob/main/Templates.png?raw=true)
+
+![Dashboard](https://github.com/pjpardun/svelte-material-dashboard/blob/main/Dashboard.png?raw=true)
+
 ## Installation
 1. Clone:
 ```bash
